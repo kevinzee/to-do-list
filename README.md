@@ -1,1 +1,1 @@
-This is a To Do list app with User Registration, Login, Search and full Create Read Update and Delete functionality. It uses Python, Django, HTML, and CSS! Open up the "to-do-list" folder and feel free to take a look.
+This is a Rock Climbing journal/app with User Registration, Login, Search and full Create Read Update and Delete functionality. It uses Python, Django, HTML, and CSS! Open up the "to-do-list" folder and feel free to take a look.
